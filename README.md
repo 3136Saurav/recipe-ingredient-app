@@ -1,3 +1,6 @@
+# Deployed at 
+https://ng-course-recipe-book-3453b.web.app/
+
 # KitchenApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
